@@ -1,0 +1,21 @@
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\bin\Debug\EverWing Remake.exe.config
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\bin\Debug\EverWing Remake.exe
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\bin\Debug\EverWing Remake.pdb
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\obj\Debug\EverWing_Remake.Game.resources
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\obj\Debug\EverWing_Remake.Menu.resources
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\obj\Debug\EverWing_Remake.Properties.Resources.resources
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\obj\Debug\EverWing Remake.csproj.GenerateResource.cache
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\obj\Debug\EverWing Remake.csproj.CoreCompileInputs.cache
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\obj\Debug\EverWing Remake.exe
+C:\Users\kallu\AppData\Local\Temporary Projects\EverWing Remake\obj\Debug\EverWing Remake.pdb
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\bin\Debug\EverWing Remake.exe.config
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\bin\Debug\EverWing Remake.exe
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\bin\Debug\EverWing Remake.pdb
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\obj\Debug\EverWing_Remake.Game.resources
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\obj\Debug\EverWing_Remake.Menu.resources
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\obj\Debug\EverWing_Remake.Properties.Resources.resources
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\obj\Debug\EverWing Remake.csproj.GenerateResource.cache
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\obj\Debug\EverWing Remake.csproj.CoreCompileInputs.cache
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\obj\Debug\EverWing Remake.exe
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\obj\Debug\EverWing Remake.pdb
+D:\Documents\OneDrive - Anglia Ruskin University\Development\Game Making\EverWing\EverWing Remake\EverWing Remake\obj\Debug\EverWing Remake.csprojAssemblyReference.cache
